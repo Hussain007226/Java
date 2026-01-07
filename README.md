@@ -1,2 +1,2 @@
 # Java
-Java code for adding two numbers and scanner class
+All JAVA programs of Hussain Tinwala will be found here
