@@ -16,7 +16,7 @@ public class A{
 		int v = 4;
 		int u = 2;
 		int a = 5;
-     		int s = 7;
+     	int s = 7;
 
 		double x = (v*v) - (u*u) / (2*a*s);
 		System.out.println(x);
@@ -25,5 +25,6 @@ public class A{
 
 
 	}
+
 
 }
