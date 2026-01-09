@@ -7,7 +7,7 @@ public class ifelse{
 		System.out.println(" ");
 
 		
-		System.out.println("Enter the week day");
+		System.out.println("Enter the weak day");
 		Scanner sc = new Scanner(System.in);
 		
 		int a = sc.nextInt();
@@ -36,7 +36,7 @@ public class ifelse{
 			break;
 	
 		default:
-			System.out.println("There is no week day");
+			System.out.println("There is no weak day as the number you gave!");
 
 
 		}
@@ -61,5 +61,6 @@ public class ifelse{
 		
 
 	}
+
 
 }
