@@ -37,6 +37,5 @@ public class RockPaperScissor {
 	static boolean isValid(String choice) {
     	return choice.equals("rock") || choice.equals("paper") || choice.equals("scissors");
 	}
-
-
 }
+
